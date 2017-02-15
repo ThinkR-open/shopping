@@ -2,7 +2,7 @@
 
 ## installation 
 
-devtools::install_github("ThinkRstat/courses")
+devtools::install_github("ThinkRstat/shopping")
 
 Rprof profvis demonstration
 
