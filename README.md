@@ -10,6 +10,7 @@ Rprof profvis demonstration
 
 
 ```R
+library(shopping)
 Rprof("courses.Rprof")
 boulangerie()
 boucherie()
