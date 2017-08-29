@@ -3,7 +3,7 @@
 ## installation 
 
 ```R
-devtools::install_github("ThinkRstat/shopping")
+devtools::install_github("ThinkR-open/shopping")
 ```
 Rprof profvis demonstration
 
