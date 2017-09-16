@@ -63,12 +63,13 @@ sortir <- function(n=2e1){
 #'
 #' @return
 #' @export
+#' @importFrom profvis pause
 #'
 #' @examples
 faire_la_queue <- function(){
   message("j'attends")
   message("...")
-  Sys.sleep(runif(1,3,8))
+  pause(runif(1,3,8))
 }
 
 #' Title
