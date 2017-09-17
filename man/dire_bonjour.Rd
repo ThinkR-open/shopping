@@ -12,4 +12,3 @@ dire_bonjour(n = 20)
 \description{
 Title
 }
-

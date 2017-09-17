@@ -12,4 +12,3 @@ sortir(n = 20)
 \description{
 Title
 }
-

@@ -12,4 +12,3 @@ commander(..., n = 20000)
 \description{
 Title
 }
-

@@ -12,4 +12,3 @@ commander_produit(produit)
 \description{
 Title
 }
-

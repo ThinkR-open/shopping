@@ -12,4 +12,3 @@ dire_au_revoir(n = 20)
 \description{
 Title
 }
-

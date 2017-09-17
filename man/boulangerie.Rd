@@ -12,4 +12,3 @@ boulangerie(baguette = 1, bonbon = NULL)
 \description{
 Title
 }
-

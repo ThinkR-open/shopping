@@ -9,4 +9,3 @@ faire_la_queue()
 \description{
 Title
 }
-

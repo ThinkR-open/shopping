@@ -12,4 +12,3 @@ ouvrir_la_porte(n = 200)
 \description{
 Title
 }
-

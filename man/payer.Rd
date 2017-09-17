@@ -12,4 +12,3 @@ payer(n = 2000)
 \description{
 Title
 }
-
